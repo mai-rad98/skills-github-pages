@@ -4,7 +4,5 @@ title: All In Open Source
 author: Maitumelo Radipodi
 description: Working with Github pages
 
-# Build Settings
-markdown: kramdown
-permalink: pretty
+
 
