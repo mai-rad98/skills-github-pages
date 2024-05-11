@@ -1,4 +1,9 @@
-theme : minima,
-title : All In Open Source,
-Author : Maitumelo Radipodi,
-Description : Working with Github pages
+# Site Settings
+theme: minima
+title: All In Open Source
+author: Maitumelo Radipodi
+description: Working with Github pages
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
